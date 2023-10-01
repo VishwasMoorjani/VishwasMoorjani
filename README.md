@@ -1,3 +1,6 @@
+[![An image of @vishwasmoorjani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwasmoorjani)](https://holopin.io/@vishwasmoorjani)
+
+
 <h1 align="center">Hi 👋, I'm Vishwas Moorjani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -9,14 +12,18 @@
 
 - 📄 Know about my experiences [https://vishwasmoorjani.github.io/](https://vishwasmoorjani.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/vishwas-moorjani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vishwasmoorjani" height="30" width="40" /></a>
 <a href="https://twitter.com/vishwasmoorjani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vishwasmoorjani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vishwasmoorjani/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="vishwasmoorjani" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## About Me
+
+I'm an experienced web developer with a strong focus on SEO and Google Insights. My expertise lies in creating search engine-friendly, high-speed websites, landing pages, funnels, and more. I stay updated with the latest algorithms to ensure your online presence thrives. Certified by tech giants like Google and SEMrush.
+
+## Languages and Tools:
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>  
@@ -46,7 +53,8 @@
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 
 </p>
-<h3 align="left">Support:</h3>
+
+## Support:
 <p><a href="https://www.buymeacoffee.com/vishwasmoorjani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vishwasmoorjani" /></a></p><br><br>
 
 <!--
@@ -63,3 +71,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
